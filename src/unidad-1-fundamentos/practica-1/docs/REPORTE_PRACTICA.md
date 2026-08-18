@@ -1,0 +1,1 @@
+## utilizar la plantilla de [REPOTE_PRACTICA.md](/docs/plantillas/REPORTE_PRACTICA.md)
